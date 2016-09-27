@@ -1,9 +1,5 @@
 Hello, I am adding some stuff to my new file
 
+This is some text
+
 Boy this is really cool!
-
-Hey you know, this is really awesome
-
-I am going to keep adding lines
-
-I really like coffee too!
